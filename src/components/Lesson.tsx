@@ -1,9 +1,5 @@
-import React from 'react'
-
-function Lesson() {
+export function Lesson() {
   return (
     <div>Lesson</div>
   )
 }
-
-export default Lesson
